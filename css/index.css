@@ -1,0 +1,58 @@
+.inline-block {
+  display: inline-block;
+  padding: 15px;
+}
+.aside {
+  float: left; 
+  width: 25%;
+  height: 1000px;
+  background-color: azure;
+}
+.main-content {
+  float: left;
+  width: 75%;
+}
+.pet-image {
+  text-align: center;
+  padding: 20px;
+  display: block;
+  border: 1px solid black;
+}
+.float {
+  float: left;
+  width: 250px;
+  height: 250px;
+  padding-right: 50px;
+}
+.profile {
+  width: 200px;
+  height: 200px;
+}
+.pet-stats {
+  padding-left: 50px;
+  padding-top: 20px;
+  display: block;
+  border: 1px solid black;
+}
+.intro-pix {
+  display: inline-block;
+  width: 28%;
+  padding: 15px;
+}
+.blog {
+  margin: 50px;
+  border: 1px solid black;
+  padding: 15px;
+}
+.pix-section {
+  margin: 50px;
+  border: 1px solid black;
+  padding: 15px;
+  text-align: center;
+}
+nav {
+  position: sticky; top: 0;
+  height: 50px;
+  background-color: lightgrey;
+
+}
